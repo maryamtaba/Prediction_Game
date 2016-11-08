@@ -1,0 +1,2 @@
+# Prediction_Game
+Humans played a prediction game in which they had to guess the next item in a sequence. The task examines the implicit learning of the potential patterns in the sequence. The Neural network simulation here is trying to immitate what humans do in using the previous observations for predicting the next element in the sequence.  The error plots suggest that this recurrent neural network exhibits a performance similar to what humans do. 
